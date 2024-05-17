@@ -1,24 +1,13 @@
 # mi_primera_app
+## flutter_basics
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_basics
-
-# Crear un tic tac toe 
+## Crear un tic tac toe 
 Vamos a practicar los widgets básicos 
 * Container
 * Row
 * Column
 * Decoration
+Simula el siguiente ejercicio ![](https://raw.githubusercontent.com/RicharC293/flutter_basics/main/ejercicio.png)
+
+Mi propuesta de solución la subiré el día sábado 18-mayo-2024, si miras este repositorion después de esta fecha simplemente clona el mismo y ya la puedes observar.
+Suerte!!!
