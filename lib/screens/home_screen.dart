@@ -34,8 +34,8 @@ class HomeScreen extends StatelessWidget {
       // ),
       body: Center(
         child: Container(
-          width: 100,
-          height: 100,
+          // width: 100,
+          // height: 100,
           // Colors -> acceder a los colores
           // color: Colors.pink,
           // Centra el contenido 
@@ -55,7 +55,7 @@ class HomeScreen extends StatelessWidget {
             /// Solo un circulo 
             // shape: BoxShape.circle,
           ),
-          child: Text("X"),
+          // child: Text("X"),
         ),
       ),
     );
