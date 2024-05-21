@@ -73,23 +73,30 @@ class HomeScreen extends StatelessWidget {
                   Container(
                     width: 100,
                     height: 100,
+                    alignment: Alignment.bottomLeft,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                      color: Colors.red,
+                      borderRadius: BorderRadius.circular(10),
+                    ),
+                    child: const Text("X"),
                   ),
                   Container(
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                   Container(
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                 ],
               ),
+              VerticalDivider(),
               Column(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
@@ -97,22 +104,26 @@ class HomeScreen extends StatelessWidget {
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                   Container(
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                   Container(
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                 ],
               ),
+              VerticalDivider(),
               Column(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
@@ -120,19 +131,22 @@ class HomeScreen extends StatelessWidget {
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                   Container(
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                   Container(
                     width: 100,
                     height: 100,
                     decoration: BoxDecoration(
-                        color: Colors.red, borderRadius: BorderRadius.circular(10)),
+                        color: Colors.red,
+                        borderRadius: BorderRadius.circular(10)),
                   ),
                 ],
               ),
